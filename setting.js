@@ -1,10 +1,10 @@
-//=====🏅 ᴍᴀʟᴠɪɴ  xᴅ🔥====
+//=====🏅 AGENT911 🔥====
 
 module.exports = {
-  BOT_NAME: 'steve', // ur bot name
+  BOT_NAME: 'LUCKY_BOT', // ur bot name
   OWNER_NAME: 'AGENT911', //your name
-  OWNER_NUMBER: '2349118743413', // add your phone number
+  OWNER_NUMBER: '2349069922503', // add your phone number
   SESSION_ID: '', // add your session ID
-  MODE: "public", // public or private
-  TIMEZONE: 'Africa/Harare' // ur timezone
+  MODE: "private", // public or private
+  TIMEZONE: 'Africa/lagos' // ur timezone
 };
